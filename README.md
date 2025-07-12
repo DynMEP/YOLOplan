@@ -31,21 +31,15 @@
 
 ## 📂 Project Structure
 
-YOLOplan/ 
-│
-├── yolo_plan_core/           # Common utilities (PDF/image processing, inference) 
-│
-├── yolo_plan_electric/       # Electrical symbols models/scripts 
-│
-├── yolo_plan_hvac/           # (Future) HVAC models/scripts 
-│
-├── datasets/                 # See datasets/ section below 
-│
-├── notebooks/                # See notebooks/ section below 
-│   └── demo_takeoff_electric.ipynb 
-│
-├── README.md 
-
+📂 Project Structure
+YOLOplan/
+├── yolo_plan_core/             # Common utilities (PDF/image processing, inference)
+├── yolo_plan_electric/         # Electrical symbols models/scripts
+├── yolo_plan_hvac/             # (Future) HVAC models/scripts
+├── datasets/                   # See datasets/ section below
+├── notebooks/                  # See notebooks/ section below
+├── demo_takeoff_electric.ipynb
+└── README.md
 
 ## 🛠️ Requirements
 
