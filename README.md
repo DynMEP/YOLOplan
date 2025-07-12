@@ -54,7 +54,7 @@ YOLOplan/
 Licensed under the MIT License. See [LICENSE](https://github.com/DynMEP/DynMEP/blob/main/LICENSE) for details.
 
 🤝 Let’s Collaborate
-Got a BIM challenge or need custom automation? Explore, fork, or contribute to github.com/DynMEP! Submit pull requests or open issues to enhance these tools. For consulting or custom scripts, reach out via GitHub Issues or direct message.
+Got a BIM challenge or need custom automation? Explore, fork, or contribute to github.com/DynMEP! Submit pull requests or open issues to enhance these tools. 
 
 ---
 
