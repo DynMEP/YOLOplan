@@ -31,7 +31,6 @@
 
 ## 📂 Project Structure
 
-
 ```text
 📂 Project Structure
 YOLOplan/
@@ -42,7 +41,7 @@ YOLOplan/
 ├── notebooks/                  # See notebooks/ section below
 ├── demo_takeoff_electric.ipynb
 └── README.md
-
+```
 
 ## 🛠️ Requirements
 
