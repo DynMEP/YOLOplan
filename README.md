@@ -75,3 +75,6 @@ GitHub: github.com/DynMEP
 **Contributions welcome!**  
 Join us to expand YOLOplan to more engineering disciplines and help automate technical drawing analysis.
 
+
+<p><a href="https://www.buymeacoffee.com/h1pot"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="h1pot" /></a></p><br><br>
+
