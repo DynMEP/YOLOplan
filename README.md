@@ -127,7 +127,6 @@ YOLOplan/
 │
 ├── docs/                       # Documentation
 │   ├── YOLOplan.md            # Detailed usage guide
-│   ├── FIXES_AND_IMPROVEMENTS.md
 │   ├── INSTALLATION_GUIDE.md
 │   ├── QUICK_REFERENCE.md
 │   └── COMPLETE_FILES_SUMMARY.md
