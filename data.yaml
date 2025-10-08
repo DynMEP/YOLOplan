@@ -1,0 +1,67 @@
+# YOLOplan Dataset Configuration
+# This file defines the dataset structure for training YOLO11 models
+
+# Dataset root path (can be absolute or relative)
+path: datasets/electrical_symbols
+
+# Dataset splits
+train: images/train
+val: images/val
+test: images/test
+
+# Number of classes
+nc: 10
+
+# Class names (must match the order used in label files)
+names:
+  0: outlet_duplex
+  1: outlet_gfci
+  2: switch_single
+  3: switch_3way
+  4: light_ceiling
+  5: light_wall
+  6: panel_main
+  7: panel_sub
+  8: junction_box
+  9: transformer
+
+# Class weights for imbalanced datasets (auto-computed by YOLOplanTrainer)
+class_weights: []  # Populated dynamically during training
+
+# Example configurations for other MEP disciplines:
+
+# ---
+# # HVAC Symbols Configuration
+# path: datasets/hvac_symbols
+# train: images/train
+# val: images/val
+# nc: 8
+# names:
+#   0: duct
+#   1: diffuser
+#   2: grille
+#   3: damper
+#   4: fan
+#   5: vav_box
+#   6: ahu
+#   7: exhaust_fan
+
+# ---
+# # Plumbing Symbols Configuration
+# path: datasets/plumbing_symbols
+# train: images/train
+# val: images/val
+# nc: 12
+# names:
+#   0: water_closet
+#   1: sink
+#   2: urinal
+#   3: shower
+#   4: bathtub
+#   5: floor_drain
+#   6: cleanout
+#   7: water_heater
+#   8: hose_bibb
+#   9: valve
+#   10: pressure_reducing_valve
+#   11: backflow_preventer
