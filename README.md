@@ -1,6 +1,6 @@
 # YOLOplan
 
-**YOLOplan** automates symbol detection and counting in technical drawings (PDF, images, CAD) using YOLO11 object detection. Built for MEP professionals, it streamlines takeoff for electrical, HVAC, plumbing, and architectural projects—fast, accurate, and production-ready.
+**YOLOplan** automates symbol detection and counting in technical drawings (PDF, images, CAD) using YOLO11 object detection. Built for MEP professionals, it streamlines takeoff for electrical, HVAC, plumbing, and architectural projects fast, accurate, and production-ready.
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
