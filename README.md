@@ -366,7 +366,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 📺 **YouTube**: [@DynMEP](https://youtube.com/@DynMEP)
 
 ### Connect
-- 💼 **LinkedIn**: [alfonso-davila-3a121087](https://linkedin.com/in/alfonso-davila-3a121087)
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/alfonso-davila-vera](https://www.linkedin.com/in/alfonso-davila-vera) 
 - 🐙 **GitHub**: [DynMEP](https://github.com/DynMEP)
 - 🌐 **Website**: [dynmep.com](http://dynmep.com) (Coming Soon)
 
@@ -392,16 +392,6 @@ If you use YOLOplan in your research or projects, please cite:
 ## ⭐ Star History
 
 If YOLOplan helps your work, please consider giving it a star! ⭐
-
----
-
-## 💖 Support This Project
-
-<p><a href="https://www.buymeacoffee.com/h1pot"> 
-  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="h1pot" />
-</a></p><br><br>
-
-Your support helps maintain and improve YOLOplan!
 
 ---
 
