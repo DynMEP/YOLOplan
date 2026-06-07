@@ -404,6 +404,6 @@ If YOLOplan helps your work, please consider giving it a star! ⭐
 **[Examples](docs/QUICK_REFERENCE.md)** • 
 **[Contributing](#-contributing)**
 
-Made with ❤️ by [Alfonso Davila](https://github.com/DynMEP)
+Made with ❤️ by [Alfonso A. Davila Vera](https://github.com/DynMEP)
 
 </div>
