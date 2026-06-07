@@ -378,7 +378,7 @@ If you use YOLOplan in your research or projects, please cite:
 
 ```bibtex
 @software{yoloplan2025,
-  author = {Alfonso Davila},
+  author = {Alfonso A. Davila Vera},
   title = {YOLOplan: Automated Symbol Detection for Technical Drawings},
   year = {2025},
   url = {https://github.com/DynMEP/YOLOplan},
