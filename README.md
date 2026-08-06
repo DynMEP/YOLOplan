@@ -3,7 +3,7 @@
 **YOLOplan** automates symbol detection and counting in technical drawings (PDF, images, CAD) using YOLO11 object detection. Built for MEP professionals, it streamlines takeoff for electrical, HVAC, and more fast, accurate, and production-ready.
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Tests](https://img.shields.io/badge/tests-passing-brightgreen.svg)](test_yoloplan.py)
 
 ---
@@ -341,11 +341,12 @@ pytest test_yoloplan.py -v
 
 ---
 
-## 📄 License
+## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+AGPL-3.0. If you run a modified version as a network service, you must make your
+source available under the same license. Uses Ultralytics YOLO11, also AGPL-3.0.
 
-**YOLO11** is licensed under AGPL-3.0 for open-source use. For commercial use, consider the [Ultralytics Enterprise License](https://ultralytics.com/license).
+Hosted version: [mepdetect.com](https://mepdetect.com)
 
 ---
 
