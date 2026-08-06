@@ -2,6 +2,11 @@
 
 **YOLOplan** automates symbol detection and counting in technical drawings (PDF, images, CAD) using YOLO11 object detection. Built for MEP professionals, it streamlines takeoff for electrical, HVAC, and more fast, accurate, and production-ready.
 
+> **Don't want to set up Python, CUDA, and train your own weights?**
+> [**mepdetect.com**](https://mepdetect.com) runs this as a hosted service with models
+> already trained on MEP symbol sets. Upload a PDF, get counts and an Excel export.
+> This repository stays open source.
+
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Tests](https://img.shields.io/badge/tests-passing-brightgreen.svg)](test_yoloplan.py)
