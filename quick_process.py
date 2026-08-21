@@ -9,7 +9,8 @@
 # Author: Alfonso Davila - Electrical Engineer, Revit MEP Dynamo BIM Expert
 # Contact: davila.alfonso@gmail.com - www.linkedin.com/in/alfonso-davila-3a121087
 # Repository: https://github.com/DynMEP/YOLOplan
-# License: MIT License (see LICENSE file in repository)
+# License: GNU Affero General Public License v3.0 (see LICENSE file in repository)
+# Copyright (C) 2025 Alfonso A. Davila Vera
 # YOLO11: AGPL-3.0 (Ultralytics) - Commercial license available from Ultralytics
 # Created: October 2025
 # Last Updated: October 8, 2025

@@ -561,7 +561,8 @@ Also cite YOLO11:
 }
 
 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GNU Affero General Public License v3.0 - see the LICENSE file for details.
+If you run a modified version as a network service, you must make your source available under the same license.
 YOLO11 is licensed under AGPL-3.0 for open-source use. For commercial use, consider Ultralytics Enterprise License.
 👤 Author
 Alfonso Davila  
